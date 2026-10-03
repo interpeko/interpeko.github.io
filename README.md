@@ -1,3 +1,7 @@
-# interpeko.github.io
+# Mustafa Haytham — personal academic portfolio
 
-Personal academic website of Mustafa Saadabi — Researcher | Aspiring Physician-Scientist
+This repository hosts the personal portfolio at https://interpeko.github.io/.
+It is separate from the AUNO Center institutional website at
+https://interpeko.github.io/aunocenter-/.
+
+The downloadable CV is `Mustafa_Haytham_Remote_CV_ATS.docx`.
